@@ -62,8 +62,17 @@
   <br/>
   <br/>
   <br/>
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumya93485"        alt="Gaurav kumar"/></a> </p>
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=soumya93485"        alt="Gaurav kumar"/></a> </p>
  <p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=gkrbbu2002" alt="Gaurav Kumar"/>
+  </a>
+</p>
+
+
+  
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumya93485&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="soumya"/>
 
  <img align="left" width="600" src="https://github-readme-stats.vercel.app/api?username=soumya93485&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="soumya" /></p> 
